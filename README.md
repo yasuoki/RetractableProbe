@@ -32,7 +32,7 @@ I am trying to design a better, but something could go wrong and your 3D printer
 - E-Clip 2.0~2.5mm(ID) x2
 - Wire 32~36AWG
 - Micro Switch (OMRON D2F-01F Low operating force 0.74 N) x1
-- Servo Motor (Dspower DSM005) x1
+- Servo Motor (Dspower DS-M005) x1
 
 LED Options
 - LED Blue 3mm x1
