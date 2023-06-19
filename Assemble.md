@@ -67,8 +67,8 @@ gcode:
 #####################################################################
 [probe]
 pin: ^PB7
-x_offset: -27.49
-y_offset: 13.85
+x_offset: 0
+y_offset: 25.0
 z_offset: 0
 speed: 10.0
 samples: 3
